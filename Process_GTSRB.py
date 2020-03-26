@@ -15,7 +15,7 @@ import csv
 import random
 import pathlib
 
-print("Hello")
+
 training_data_dir = "C:/Users/sirch/PycharmProjects/TFTutorials/venv/dataset/training"
 training_data_dir = pathlib.Path(training_data_dir)
 image_count = len(list(training_data_dir.glob('*/*.jpg')))
