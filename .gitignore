@@ -1,4 +1,4 @@
-*.jpg
+Process_GTSRB - Copy.py
 *.jpeg
 *.ppm
 *.cfg
@@ -9,12 +9,8 @@
 .idea/**/dictionaries
 .idea/**/shelf
 dataset/**
-dataset
-dataset/training
-dataset/training/*
-dataset/training/*.*
-/dataset/training/*.*
-/output/
-/Scripts/
-/Lib/site-packages/
-/.idea/
+
+output/**
+Scripts/**
+Lib/**
+
